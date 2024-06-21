@@ -248,17 +248,17 @@ Description: Gerold - Personal Portfolio HTML5 Template
             });
         }
 
-        // $(".modal-popup").magnificPopup({
-        //     type: "inline",
-        //     fixedContentPos: false,
-        //     fixedBgPos: true,
-        //     overflowY: "auto",
-        //     closeBtnInside: true,
-        //     preloader: false,
-        //     midClick: true,
-        //     removalDelay: 300,
-        //     mainClass: "popup-mfp",
-        // });
+        $(".modal-popup").magnificPopup({
+            type: "inline",
+            fixedContentPos: false,
+            fixedBgPos: true,
+            overflowY: "auto",
+            closeBtnInside: true,
+            preloader: false,
+            midClick: true,
+            removalDelay: 300,
+            mainClass: "popup-mfp",
+        });
     });
 
     $(window).on("load", function() {
