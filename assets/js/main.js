@@ -443,7 +443,6 @@ Description: Gerold - Personal Portfolio HTML5 Template
 // jainil js
 function openWhatsApp() {
     const phoneNumber = "9328767877"; 
-    const message = "Hello, jainil this side."; 
     const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
     window.open(whatsappUrl, '_blank');
 }
