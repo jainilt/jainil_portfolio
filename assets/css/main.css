@@ -3721,3 +3721,6 @@ body.absolute_header .breadcrumb_area {
 .vid{
     max-width: 100%;
 }
+a{
+    text-decoration: none;
+}
