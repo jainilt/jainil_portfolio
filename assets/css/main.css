@@ -3719,7 +3719,7 @@ body.absolute_header .breadcrumb_area {
 
 /* jainil css */
 .vid{
-    max-width: 100%;
+    max-width: 100% !important;
 }
 a{
     text-decoration: none;
