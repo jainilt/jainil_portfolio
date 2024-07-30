@@ -1996,7 +1996,7 @@ body.loaded {
 
 .skills-widget .skill-inner {
     border-radius: 25px;
-    padding: 40px 15px 30px;
+    padding: 40px 15px 10px;
     background: var(--tj-theme-accent-2);
     border: 1px solid transparent;
     margin-bottom: 15px;
