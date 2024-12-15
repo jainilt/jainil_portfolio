@@ -3725,3 +3725,6 @@ a{
     text-decoration: none;
     color: white;
 }
+.brochure-horizontal-view{
+    display: flex;
+}
