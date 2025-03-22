@@ -3732,3 +3732,10 @@ a{
     width: 100% !important;
     left: 0 !important;
 }
+@media (max-width: 768px) {  /* Target devices with a width of 768px or less */
+    .skills-widget .skill-item .icon-box img {
+        filter: none;
+        -webkit-filter: none;
+        
+    }
+}
