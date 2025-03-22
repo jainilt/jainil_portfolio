@@ -3728,3 +3728,7 @@ a{
 .brochure-horizontal-view{
     display: flex;
 }
+.active-bg.\.portfolio-filter.\.button-group{
+    width: 100% !important;
+    left: 0 !important;
+}
