@@ -35,6 +35,10 @@ Description: Gerold - Personal Portfolio HTML5 Template
 *  START: Theme Default CSS
 * ===============================
 */
+.portfolio-filter .button-group .active {
+    background-color: white !important;
+    color: black;
+}
 
 @import url("https://fonts.googleapis.com/css2?family=Sora:wght@300;400;500;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Russo+One&display=swap");
